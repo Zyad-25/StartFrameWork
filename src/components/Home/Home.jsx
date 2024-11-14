@@ -9,7 +9,7 @@ export default function Home() {
     <div className="">
     <div className=' min-h-screen main-color flex justify-center items-center '>
         <div className=" w-full flex justify-center items-center flex-col">
-          <img src="src/assets/avataaars.svg" className='w-[230px]' alt="" />
+          <img src="/avataaars.svg" className='w-[230px]' alt="" />
           <h1 className='uppercase text-4xl font-bold text-white pt-8'>start framework</h1>
           <div className="flex justify-between px-12 pt-5">
           <div className="border-b-4 me-3 border-white h-3 w-[100px]"></div>
